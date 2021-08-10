@@ -1,0 +1,4 @@
+nba-api
+keyring
+pandas
+pymongo[snappy,gssapi,srv,tls]
